@@ -70,7 +70,7 @@ class _SingInPageState extends State<SingInPage> {
                                   Padding(
                                     padding: EdgeInsets.all(1),
                                     child: Text(
-                                      'Giris Yap',
+                                      'Kayıt Ol',
                                       style: TextStyle(
                                         fontSize: 25,
                                         fontWeight: FontWeight.w600,
